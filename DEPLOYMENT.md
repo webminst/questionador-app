@@ -2,12 +2,12 @@
 
 ## 📋 Checklist Rápido
 
-- [ ] Repositório GitHub criado
-- [ ] Remote origin configurado
-- [ ] GitHub Pages habilitado nas configurações do repositório
-- [ ] Primeira push para `main` feita (ativa GitHub Actions)
-- [ ] Deploy automático completo (~2-3 min)
-- [ ] Acessar URL em `https://webminst.github.io/questionador-app/`
+- [x] Repositório GitHub criado
+- [x] Remote origin configurado
+- [x] GitHub Pages habilitado nas configurações do repositório
+- [x] Primeira push para `main` feita (ativa GitHub Actions)
+- [x] Deploy automático completo (~2-3 min)
+- [x] Acessar URL em `https://webminst.github.io/questionador-app/`
 
 ---
 
