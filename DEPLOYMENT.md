@@ -7,7 +7,7 @@
 - [ ] GitHub Pages habilitado nas configurações do repositório
 - [ ] Primeira push para `main` feita (ativa GitHub Actions)
 - [ ] Deploy automático completo (~2-3 min)
-- [ ] Acessar URL em `https://<username>.github.io/questionador-app/`
+- [ ] Acessar URL em `https://webminst.github.io/questionador-app/`
 
 ---
 
@@ -20,7 +20,7 @@
 3. **NÃO** inicialize com README (já temos um)
 4. Copie o comando de remote (parecido com):
    ```
-   git remote add origin https://github.com/<seu-usuario>/questionador-app.git
+   git remote add origin https://github.com/webminst/questionador-app.git
    git branch -M main
    git push -u origin main
    ```
@@ -31,7 +31,7 @@ No terminal do seu projeto:
 
 ```powershell
 # Adicionar remote do GitHub
-git remote add origin https://github.com/<seu-usuario>/questionador-app.git
+git remote add origin https://github.com/webminst/questionador-app.git
 
 # Renomear branch para main
 git branch -M main
@@ -56,7 +56,7 @@ git push -u origin main
 Após o deploy automático completar, acesse:
 
 ```
-https://<seu-usuario>.github.io/questionador-app/
+https://webminst.github.io/questionador-app/
 ```
 
 ---
@@ -213,7 +213,7 @@ Se seu app usa `.env` para variáveis de configuração:
 1. ✅ Criar repositório no GitHub
 2. ✅ Fazer primeiro push para `main`
 3. ✅ Aguardar deploy automático (~3 min)
-4. ✅ Testar em `https://<usuario>.github.io/questionador-app/`
+4. ✅ Testar em `https://webminst.github.io/questionador-app/`
 5. 📝 (Opcional) Configurar domínio customizado
 
 Qualquer dúvida, verifique os logs em **Actions** do repositório!
