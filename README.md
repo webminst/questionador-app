@@ -1,4 +1,11 @@
+# O que é?
+Questionador é uma plataforma completa de estudos que aplica o método científico de Spaced Repetition (Repetição Espaçada) para maximizar sua retenção de conhecimento. Diferente de apps convencionais que apenas apresentam questões aleatórias, o Questionador utiliza o algoritmo SM-2 (SuperMemo 2) — o mesmo usado em aplicativos renomados como Anki — para calcular automaticamente o momento ideal de revisar cada conteúdo, baseado no seu desempenho individual.
+# Como funciona?
+Você cria seus próprios bancos de questões organizados por disciplinas e níveis de dificuldade, com suporte completo a fórmulas matemáticas via LaTeX (ideal para exatas!). Ao responder quizzes personalizados, o sistema analisa seu tempo de resposta e taxa de acerto, ajustando inteligentemente os intervalos de revisão de 1 a 16 dias. Cada questão tem sua "memória" própria, garantindo que você revise mais frequentemente aquilo que tem dificuldade e menos o que já domina.
+# Por que usar?
+Totalmente gratuito, open source e sem necessidade de cadastro em servidores externos — seus dados ficam 100% privados no seu navegador. Com sistema de gamificação (badges, streaks, rankings), você mantém a motivação enquanto acompanha seu progresso através de gráficos detalhados. Desenvolvido com tecnologias modernas (React 19, TypeScript, Vite) e 33 testes automatizados, é uma ferramenta profissional perfeita para concursos públicos, vestibulares, certificações ou qualquer aprendizado que exija memorização eficiente.
 # React + TypeScript + Vite
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
